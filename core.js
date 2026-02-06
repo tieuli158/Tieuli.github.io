@@ -21,7 +21,7 @@
             e.preventDefault(); return false;
         }
     });
-
+bảo trì
     /* --- BẢO VỆ CẤP 2: TỰ HUỶ (CRASH) --- */
     function crash() {
         document.body.innerHTML = '';
