@@ -5,7 +5,7 @@
 
 // --- CẤU HÌNH ADMIN (QUYỀN SINH SÁT) ---
 const TOOL_CONFIG = {
-    STATUS: "ACTIVE", // Đổi thành "OFF" để khóa toàn bộ tool từ xa
+    STATUS: "OFF", // Đổi thành "OFF" để khóa toàn bộ tool từ xa
     VERSION: "2.0.1",
     MESSAGE: "Tool đang bảo trì cập nhật mới. Vui lòng liên hệ Admin Long Nguyễn.", // Lời nhắn khi khóa
     CONTACT: "Zalo/Tele: @LongNguyenDev"
