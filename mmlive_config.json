@@ -1,6 +1,6 @@
 {
     "_huong_dan": "Sửa dòng status bên dưới: Ghi 'ACTIVE' để MỞ tool, ghi 'OFF' để TẮT tool.",
-    "status": "ACTIVE",
+    "status": "OFF",
     "message": "Tool đang bảo trì để cập nhật tính năng mới. Vui lòng quay lại sau hoặc liên hệ Admin.",
     "contact": "Dev Long Nguyễn",
     "version": "2.5.0"
